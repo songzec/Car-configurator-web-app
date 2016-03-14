@@ -1,0 +1,9 @@
+model=a
+make=Toyota
+basePrice=998.00
+optionSet1=Transmission
+optionSet1option1=Manual,0
+optionSet1option2=Automatic,666
+optionSet2=Brakes
+optionSet2option1=Regular,363
+optionSet2option2=ABS,999

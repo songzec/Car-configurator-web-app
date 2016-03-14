@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--AgileJ Ltd. (http://www.agilej.com)--><ajsv>
+    <diagram creationDate="2016-二月-14 23:01" licenseGrade="evaluation" licenseeName="anon" licenseeOrganization="unknown" populationMethod="manual" version="1.8.3.v20151019-2113">
+        <filterScript>
+
+// no filter script yet defined for this class diagram
+// use CTRL+SPACE for completion suggestions
+
+</filterScript>
+        <class className="Model.Automotive" project="smart phone Proj1" xLocation="-698" yLocation="720"/>
+        <class className="Model.OptionSet" project="smart phone Proj1" xLocation="737" yLocation="445"/>
+        <class className="Util.ReadSource" project="smart phone Proj1" xLocation="-275" yLocation="439"/>
+        <class className="Driver.Driver" project="smart phone Proj1" xLocation="256" yLocation="254"/>
+    </diagram>
+</ajsv>

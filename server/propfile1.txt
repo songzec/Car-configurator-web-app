@@ -1,0 +1,12 @@
+model=b
+make=Toyota
+basePrice=998.00
+optionSet1=color
+optionSet1option1=red,1000
+optionSet1option2=yellow,500
+optionSet2=weight
+optionSet2option1=light,200
+optionSet2option2=heavy,300
+optionSet3=Transmission
+optionSet3option1=Manuallllll,998
+optionSet3option2=Automaticcccc,233

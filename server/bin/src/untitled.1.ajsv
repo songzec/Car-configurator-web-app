@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--AgileJ Ltd. (http://www.agilej.com)--><ajsv>
+    <diagram creationDate="2016-二月-15 03:30" licenseGrade="evaluation" licenseeName="anon" licenseeOrganization="unknown" populationMethod="manual" version="1.8.3.v20151019-2113">
+        <filterScript>
+
+// no filter script yet defined for this class diagram
+// use CTRL+SPACE for completion suggestions
+
+</filterScript>
+        <class className="model.Automobile" project="smart phone Proj1" xLocation="212" yLocation="952"/>
+        <class className="model.OptionSet" project="smart phone Proj1" xLocation="-659" yLocation="965"/>
+        <class className="scale.EditOptions" project="smart phone Proj1" xLocation="-1483" yLocation="252"/>
+        <class className="adapter.ProxyAutomobile" project="smart phone Proj1" xLocation="-593" yLocation="499"/>
+        <class className="exception.Error" project="smart phone Proj1" xLocation="1977" yLocation="1255"/>
+        <class className="exception.AutoException" project="smart phone Proj1" xLocation="1259" yLocation="337"/>
+        <class className="adapter.UpdateAuto" project="smart phone Proj1" xLocation="676" yLocation="1000"/>
+        <class className="util.Serialization" project="smart phone Proj1" xLocation="-30" yLocation="2015"/>
+        <class className="exception.Fix0to4" project="smart phone Proj1" xLocation="2001" yLocation="73"/>
+        <class className="adapter.CreateAuto" project="smart phone Proj1" xLocation="540" yLocation="-53"/>
+        <class className="util.ReadSource" project="smart phone Proj1" xLocation="1011" yLocation="1887"/>
+        <class className="driver.Driver" project="smart phone Proj1" xLocation="393" yLocation="327"/>
+        <class className="exception.FixAuto" project="smart phone Proj1" xLocation="2063" yLocation="766"/>
+        <class className="adapter.BuildAuto" project="smart phone Proj1" xLocation="-512" yLocation="0"/>
+    </diagram>
+</ajsv>
